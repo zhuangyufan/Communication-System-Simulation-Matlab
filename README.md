@@ -1,2 +1,2 @@
-# Communication-System-Simulation
-Simulation of communication systems based on Matlab
+# Simulation-of-Communication-Systems
+Simulation of wireless communication systems based on Matlab
