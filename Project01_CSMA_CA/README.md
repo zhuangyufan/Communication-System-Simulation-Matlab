@@ -2,5 +2,5 @@
 Use Mento-Carlo simulation to demonstrate the average transmission efficiency versus the number of STAs in a BSS, where 
 
 $$
-transmission efficiency = \frac{a}{b}
+Transmission Efficiency = \frac{Time for Frame Transmission and Acknowledge}{Time for Frame Transmission+Overhead(SIFS,DIFS,contention}
 $$
