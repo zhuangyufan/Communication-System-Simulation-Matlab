@@ -7,7 +7,7 @@ $$
 
 1. We assume all the STAs always have data for transmission. 
 2. Given a fixed number of STAs, more than 1000 transmissions are generated to measure the average transmission efficiency. 
-3. We show the transmission efficiency versus number of STAs in [1]. 
+3. We show the transmission efficiency versus number of STAs in the following figure. 
 
 ![1](plot.png)
 
