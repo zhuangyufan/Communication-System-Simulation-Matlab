@@ -1,2 +1,6 @@
-# Simulation-of-Communication-Systems
-Simulation of wireless communication systems based on Matlab
+## Design of Modern Communication Systems, SUSTech
+
+Lecturer: (Prof. Rui Wang)[https://eee.sustech.edu.cn/p/wangrui/]
+
+Semester: 2022 Spring
+
